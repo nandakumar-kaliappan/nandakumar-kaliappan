@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nandakumar kaliappan</h1>
 <h3 align="center">A passionate java developer</h3>
 
-- 🔭 I’m currently working on [Pet Clinic Project](https://github.com/nandakumar-kaliappan/spring-petclinic)
+- 🔭 I’m currently working on [YarnShop - an application for online shopping of yarn](https://github.com/nandakumar-kaliappan/yarnshop)
 
-- 🌱 I’m currently learning **Spring Boot,Hibernate**
+- 🌱 I’m currently learning **java technologies**
 
 - 📫 How to reach me **nandakumarkaliappan@gmail.com**
 
